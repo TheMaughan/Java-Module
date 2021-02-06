@@ -27,7 +27,6 @@ public class Main {
     c.orders.add(order2);
     c.displaySummary();
     c.displayReceipts();
-
   }
 }
   

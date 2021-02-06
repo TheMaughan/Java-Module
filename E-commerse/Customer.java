@@ -10,10 +10,7 @@ public class Customer {
     }
 
     public int getOrderCount() {
-        int orderNum = 0;
-        for(Order counting : orders)
-            orderNum += 1;
-        return orderNum;
+        return orders.size();
     }
 
     public double grandTotal() {
