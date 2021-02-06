@@ -1,4 +1,4 @@
-package Product;
+import Product;
 public class Order {
     String id;
     String[] products;
