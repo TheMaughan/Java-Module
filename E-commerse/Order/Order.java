@@ -1,4 +1,3 @@
-package Product;
 public class Order {
     String id;
     String[] products;
