@@ -10,6 +10,8 @@ public class Customer {
     }
 
     public int getOrderCount() {
+        // In Python I would have used a for loop, but
+        //     this is much more simple:
         return orders.size();
     }
 
