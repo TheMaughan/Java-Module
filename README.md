@@ -2,6 +2,7 @@
 
 This repository demonstraits a simple ecommerse program. The ecommerse program was originally created in a language I'm familiar with, Python, which I transalated into Java for learning purposes.
 
+I used the 'HelloWorld' and 'Calculator' programs to learn simple Java principals and for referencing Java syntax while creating the more complex ecommerse program.
 
 # Development Environment
 
