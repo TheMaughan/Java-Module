@@ -1,13 +1,12 @@
 /*
-
-CSE310 Java Workshop - Example 1 - Solution
-
 This example will use Hello World to explore the structure of 
-a Java program including classes, main function, constructors, 
+a Java program including classes, main function, constructors,
 member data, and functions
 */
+// This enables user input:
 import java.util.Scanner;
 
+// Creating the class:
 public class HelloWorld {
 
   // Member data
@@ -58,10 +57,6 @@ public class HelloWorld {
       System.out.println("Sum of your two entries: "+sum);
   }
 
-  /* In REPL, it will look for the main function
-     in a class called Main.  In other tools, you don't
-     need to call the class Main. 
-  */
   public static void main(String[] args) {
       System.out.println("Hello World from main");
 

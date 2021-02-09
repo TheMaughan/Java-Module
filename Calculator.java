@@ -1,3 +1,5 @@
+// I used this program to practice Java syntax with 'for' loops
+//     the 'case' command and unique Java 'printf()' statements.
 import java.util.Scanner;
 public class Calculator {
 
@@ -5,7 +7,7 @@ public class Calculator {
 		// 'printf' example:
 		System.out.println("Multiples of '9'");
 		for(int i=1; i<=10; i++)
-			System.out.printf("%2d * %1d = %2d\n",i,9,i*9);
+			System.out.printf("%2d * %1d = %2d\n",i,9,i*9); // Java can do math within a for loop with minimal typing
 	}
 
     public static void main(String[] args) {
